@@ -5,6 +5,7 @@ Ruby clone of (Plain Paxos)[github.com/link/to/repo] implementation by Tom Cocag
 
 Based on the Paper by Leslie Lambert:
 http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf
+
 For a quicker read:
 http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf
 
